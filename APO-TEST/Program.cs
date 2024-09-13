@@ -1,5 +1,5 @@
-using APO_TEST.Interfaces;
-using APO_TEST.Services;
+using API_TEST.Interfaces;
+using API_TEST.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,6 +1,6 @@
-@APO_TEST_HostAddress = http://localhost:5005
+@API_TEST_HostAddress = http://localhost:5005
 
-GET {{APO_TEST_HostAddress}}/weatherforecast/
+GET {{API_TEST_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

@@ -1,8 +1,8 @@
-﻿using APO_TEST.Interfaces;
-using APO_TEST.Models;
+﻿using API_TEST.Interfaces;
+using API_TEST.Models;
 using System.Xml.Linq;
 
-namespace APO_TEST.Services
+namespace API_TEST.Services
 {
     public class ProductService : IProductService
     {

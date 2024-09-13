@@ -1,4 +1,4 @@
-﻿namespace APO_TEST.Models
+﻿namespace API_TEST.Models
 {
     public class ProductModel
     {

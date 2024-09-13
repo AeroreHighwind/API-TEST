@@ -1,6 +1,6 @@
-﻿using APO_TEST.Models;
+﻿using API_TEST.Models;
 
-namespace APO_TEST.Interfaces
+namespace API_TEST.Interfaces
 {
     public interface IProductService
     {
